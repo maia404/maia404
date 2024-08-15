@@ -34,12 +34,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maia404/maia404/output/snake.svg" alt="Snake animation" />
-
-###
-
 <p align="left">Hello World!!</p>
 
 ###
