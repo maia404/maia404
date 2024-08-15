@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4c0c4748-4b2e-43c9-9dcd-fa06b38bd957)<h2 align="center">Hi👋! My name is Pedro and I'm a softwer developer from Brasil</h2>
+<h2 align="center">Hi👋! My name is Pedro and I'm a softwer developer from Brasil</h2>
 
 ###
 
